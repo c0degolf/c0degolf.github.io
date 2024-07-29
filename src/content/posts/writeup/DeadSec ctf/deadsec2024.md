@@ -172,7 +172,9 @@ with open('./flag', 'r') as f:
 
 ### exploit
 
-$$sum = \sum\limits_{i=0}^{n-1} x_iarr_i;\ x_i=0,1$$
+$$
+sum = \sum\limits_{i=0}^{n-1} x_iarr_i;\ x_i=0,1
+$$
 $$
 M =
 \begin{bmatrix}
@@ -607,7 +609,9 @@ with open('./flag', 'r') as f:
 
 ### exploit
 
-$$sum = \sum\limits_{i=0}^{n-1} x_iarr_i;\ x_i=0,1$$
+$$
+sum = \sum\limits_{i=0}^{n-1} x_iarr_i;\ x_i=0,1
+$$
 `user_sum`은 위와 같은 식으로 나타낼 수 있다. 누가봐도 LLL을 쓰면 풀릴거 같다.
 $$
 M =
