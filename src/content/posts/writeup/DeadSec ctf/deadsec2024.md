@@ -13,7 +13,7 @@ draft: false
 
 **Table of Contents**
 
-1. [Writeup (English)](#writeup-en) My English skills are poor 😅
+1. [Writeup (English)](#writeup-en)
     1. [Flag Killer](#flag-killer)
     2. [SSP](#ssp)
     3. [Raul Rosas](#raul-rosas)
