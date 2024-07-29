@@ -1,7 +1,7 @@
 ---
 title: 2024 DeadSec CTF writeup
 published: 2024-07-28
-description: '방학 전 마지막 CTF'
+description: 'English / Korean writeup'
 image: './deadsec.png'
 tags: ['RSA', 'LLL', 'secret-sharing', 'subset-sum', 'etc']
 category: 'Crypto'
