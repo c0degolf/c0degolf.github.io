@@ -1,9 +1,17 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hello! I'm c0degolf!<br>
+I'm captain of [ST3P](https://ctftime.org/team/240981). Also, I live in Dimigo.
 
-::github{repo="saicaca/fuwari"}
+## interested in
++ Guitar
++ Piano
++ Hacking (Crypto)
++ Hololive
++ [WANE](https://blog.wane.im/)
++ [z1gyeol](https://z1gyeol.github.io/)
++ [EXON](https://blog.exon.kr/)
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## info
++ discord : `elliptic_curve`
++ twitter : `c0degolf`
++ github : `c0degolf`
