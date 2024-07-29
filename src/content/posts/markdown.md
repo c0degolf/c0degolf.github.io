@@ -161,6 +161,7 @@ Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
 
 $$sum = \sum\limits_{i=0}^{n-1} x_iarr_i;\ x_i=0,1$$
+
 $$
 M =
 \begin{bmatrix}
