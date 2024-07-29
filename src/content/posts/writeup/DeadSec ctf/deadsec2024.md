@@ -9,7 +9,7 @@ draft: false
 ---
 # 2024 DeadSec CTF
 
-잔류인데 공부하기 싫었다. 마침 [액슨](https://blog.exon.kr/)의 꼬드김에 넘어가서 둘이서 참여하게 되었다.
+잔류인데 공부하기 싫었다. 마침 액슨의 꼬드김에 넘어가서 둘이서 참여하게 되었다.
 
 **Table of Contents**
 
