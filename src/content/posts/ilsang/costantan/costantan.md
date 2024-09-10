@@ -1,13 +1,14 @@
 ---
 title: 삼각함수 공식
 published: 2024-09-10
-description: ''
+description: '미친수행평가이게말이되냐'
 image: 'preview.jpg'
 tags: []
 category: '디미고'
 draft: false 
 ---
 # 시카노코노코 COS TAN TAN
+
 1. $\sin(x + y) = \sin(x) \cos(y) + \cos(x) \sin(y)$
 
 2. $\cos(x + y) = \cos(x) \cos(y) - \sin(x) \sin(y)$
