@@ -7,6 +7,14 @@ tags: []
 category: '디미고'
 draft: false 
 ---
+# e 44자리
+2.
+7182818284 
+5904523536 
+0287471352 
+6624977572 
+4709369995
+
 # 시카노코노코 COS TAN TAN
 
 1. $\sin(x + y) = \sin(x) \cos(y) + \cos(x) \sin(y)$
