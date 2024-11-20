@@ -47,3 +47,10 @@ draft: false
 17. $\sin^2(x) = \dfrac{1 - \cos(2x)}{2}$
 
 18. $\tan^2(x) = \dfrac{1 - \cos(2x)}{1 + \cos(2x)}$
+
+19. $\sin \alpha=\dfrac{a}{\sqrt{a^2+b^2}},\ \cos a =\dfrac{b}{\sqrt{a^2+b^2}}, \\
+\sin \beta=\dfrac{b}{\sqrt{a^2+b^2}},\ \cos \beta=\dfrac{a}{\sqrt{a^2+b^2}}\ 일 때, \\
+a\sin x+b\cos x=\sqrt{a^2+b^2}\Bigg(\dfrac{a}{\sqrt{a^2+b^2}}\sin x+\dfrac{b}{\sqrt{a^2+b^2}}\cos x\Bigg) \\
+= \sqrt{a^2+b^2}(\sin\alpha \sin x+\cos\alpha\cos x)=\sqrt{a^2+b^2}\sin(x-\alpha) \\
+a\sin x+b\cos x=\sqrt{a^2+b^2}\Bigg(\dfrac{a}{\sqrt{a^2+b^2}}\sin x+\dfrac{b}{\sqrt{a^2+b^2}}\cos x\Bigg) \\
+= \sqrt{a^2+b^2}(\cos \beta \sin x+\sin \beta\cos x)=\sqrt{a^2+b^2}\sin(x+\beta)$
